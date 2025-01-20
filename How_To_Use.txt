@@ -1,0 +1,3 @@
+Just copy and paste into the console (when in a battle) what's in "compile/main.js".
+
+Howerver I have to point that it was only tested in chrome.
