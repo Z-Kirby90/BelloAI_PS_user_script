@@ -18,7 +18,7 @@ startGameLoop()
 If you don't want to do these steps again everytime you want to use it, there's also a TamperMonkey version wich add a button replacing the logo of PS, it's also the lastest version of the script right now.
 
 > [!WARNING]
-> **Just be aware that every version were only tested and made using a gen 9 format and on a PC.**
+> **Just be aware that every version were only tested and made using a gen 9 format (in singles not doubles) and on a PC.**
 
 Here's a video I made about the project : [Link](https://www.youtube.com/watch?v=t1jocMXNP3I)
 
@@ -46,7 +46,7 @@ startGameLoop()
 Si vous ne souhaitez pas refaire ces étapes à chaque fois que vous souhaitez l'utiliser, il existe également une version TamperMonkey qui ajoute un bouton remplaçant le logo de PS, c'est également la dernière version du script en ce moment.
 
 > [!WARNING]
-> **Soyez au courant que chaque version a été testée et réalisée uniquement dans un format de la génération 9 et sur un PC.**
+> **Soyez au courant que chaque version a été testée et réalisée uniquement dans un format de la génération 9 (en combat singulier et non double) et sur un PC.**
 
 Une vidéo (en anglais) de moi parlant du projet : [Lien](https://www.youtube.com/watch?v=t1jocMXNP3I)
 
