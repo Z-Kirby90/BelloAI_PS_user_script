@@ -22,6 +22,8 @@ If you don't want to do these steps again everytime you want to use it, there's 
 
 Here's a video I made about the project : [Link](https://www.youtube.com/watch?v=t1jocMXNP3I)
 
+And here's a screenshot of the script in action : ![BelloAI in action](https://raw.githubusercontent.com/Z-Kirby90/BelloAI_PS_user_script/main/screenshot/1.png)
+
 ## ${\color{blue}Fr \color{white}en \color{red}ch}$ / ${\color{blue}Fra \color{white}nç \color{red}ais}$
 
 # **C'est quoi ?**
@@ -47,3 +49,5 @@ Si vous ne souhaitez pas refaire ces étapes à chaque fois que vous souhaitez l
 > **Soyez au courant que chaque version a été testée et réalisée uniquement dans un format de la génération 9 et sur un PC.**
 
 Une vidéo (en anglais) de moi parlant du projet : [Lien](https://www.youtube.com/watch?v=t1jocMXNP3I)
+
+Voici une capture d'écran du script en action : ![BelloAI en action](https://raw.githubusercontent.com/Z-Kirby90/BelloAI_PS_user_script/main/screenshot/1.png)
