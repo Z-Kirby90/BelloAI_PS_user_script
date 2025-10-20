@@ -29,7 +29,7 @@ And here's a screenshot of the script in action : ![BelloAI in action](https://r
 # **C'est quoi ?**
 
 Il s'agit d'un script utilisateur pour Pokemon Showdown. Lorsque vous l'exécutez, il joue à votre place.
-Cependant, la principale raison de sa cr&éation était de jouer contre lui pour s'améliorer aux combats Pokémon. Cependant, je n'ai toujours pas reçu d'avis ni d'approbation de la part de l'équipe de Pokemon Showdown, ce qui le place dans une situation stagnante.
+Cependant, la principale raison de sa création était de jouer contre lui pour s'améliorer aux combats Pokémon. Cependant, je n'ai toujours pas reçu d'avis ni d'approbation de la part de l'équipe de Pokemon Showdown, ce qui le place dans une situation stagnante.
 
 # **Comment l'utiliser ?**
 
